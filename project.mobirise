@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BECS2-2020",
-    "currentPage": "Unit5.html",
+    "currentPage": "Unit8.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2212,7 +2212,7 @@
         }
       ]
     },
-    "page4.html": {
+    "Unit8.html": {
       "settings": {
         "meta_descr": "Unit 7 interactive exercises",
         "title": "Unit 8",
